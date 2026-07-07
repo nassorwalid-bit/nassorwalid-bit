@@ -1,25 +1,88 @@
-# Walid Nassor
+# 👋 Hi, I'm Walid Nassor
 
-Entrepreneur, strategist and builder based in Africa.  
-Focused on business development, systems, operations, branding, and digital transformation.
+## Executive Director – Strategy & Development
 
-## About Me
+I build companies, systems, and scalable business operations across Africa.
 
-I work on building structured, modern and scalable business systems, with a strong focus on execution, organization, and long-term value creation.
+My work combines entrepreneurship, strategic management, digital transformation, artificial intelligence, branding, and operational excellence to create businesses designed for long-term growth.
 
-## Current Focus
+---
 
-- Supa Group Africa
-- Business automation
-- Internal management systems
+## 🚀 Current Focus
+
+- Building **Supa Group Africa**
+- Business strategy & corporate development
+- Digital transformation
+- AI-powered business systems
+- Operations & workflow automation
+- Investment opportunities
+- Corporate governance
+- Logistics & supply chain
 - Brand development
-- Investment-ready documentation
-- AI-powered productivity
 
-## Vision
+---
 
-To build practical, modern and disciplined systems that transform ideas into real companies, real structures and real results.
+## 🛠️ Technologies & Tools
 
-## Contact
+- Git & GitHub
+- Python
+- SQL
+- AppSheet
+- AI & Large Language Models
+- Business Intelligence
+- Process Automation
+- Microsoft 365
+- Google Workspace
 
-GitHub: [@nassorwalid-bit](https://github.com/nassorwalid-bit)
+---
+
+## 📈 Areas of Interest
+
+- Entrepreneurship
+- Artificial Intelligence
+- Business Systems
+- Corporate Strategy
+- Leadership
+- Innovation
+- African Economic Development
+- Investment
+- Technology
+
+---
+
+## 🌍 Vision
+
+My mission is to build sustainable companies that combine innovation, discipline, technology and execution to create long-term value throughout Africa.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Software Development
+- Artificial Intelligence Engineering
+- Business Automation
+- GitHub Workflows
+- Cloud Technologies
+
+---
+
+## 🤝 Collaboration
+
+I'm always interested in collaborating on projects related to:
+
+- AI
+- Business Systems
+- Automation
+- Entrepreneurship
+- African Innovation
+- Investment Opportunities
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/nassorwalid-bit
+
+---
+
+> *"Discipline creates systems. Systems create freedom. Freedom creates impact."*
