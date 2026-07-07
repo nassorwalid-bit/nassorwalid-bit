@@ -1,16 +1,25 @@
-## Hi there 👋
+# Walid Nassor
 
-<!--
-**nassorwalid-bit/nassorwalid-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrepreneur, strategist and builder based in Africa.  
+Focused on business development, systems, operations, branding, and digital transformation.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on building structured, modern and scalable business systems, with a strong focus on execution, organization, and long-term value creation.
+
+## Current Focus
+
+- Supa Group Africa
+- Business automation
+- Internal management systems
+- Brand development
+- Investment-ready documentation
+- AI-powered productivity
+
+## Vision
+
+To build practical, modern and disciplined systems that transform ideas into real companies, real structures and real results.
+
+## Contact
+
+GitHub: [@nassorwalid-bit](https://github.com/nassorwalid-bit)
